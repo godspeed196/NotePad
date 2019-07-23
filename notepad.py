@@ -1,5 +1,5 @@
 #NotePad using Tkinter..made with JB<P*_*E>
-#Trademark~El Patron
+#Trademark~El Patron/lordstark196
 
 import tkinter
 import os
